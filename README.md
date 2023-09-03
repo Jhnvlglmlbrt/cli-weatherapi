@@ -39,5 +39,3 @@
 
     ```bash
     go run main.go Tokyo
-
-
